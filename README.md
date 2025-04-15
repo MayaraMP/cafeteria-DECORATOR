@@ -158,6 +158,13 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ---
 
+## Diagrama
+
+![image](https://github.com/user-attachments/assets/ebbcfd4f-41bc-4b97-a2cd-0ee51275889a)
+
+
+---
+
 ###  Finalizando
 
 Este projeto exemplifica o uso do padrão Decorator para adicionar funcionalidades de maneira flexível e reutilizável. Através de testes unitários, garantimos que cada modificação no sistema seja corretamente validada. Se você quiser aprender mais sobre o padrão de design Decorator ou sobre como usá-lo em projetos Java, sinta-se à vontade para explorar o código ou contribuir com melhorias.
